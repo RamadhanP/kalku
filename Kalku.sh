@@ -66,11 +66,11 @@ About(){ #about
 clear
 echo "\033[36;1m"
 figlet -f future "calculator"
-echo "\033[33;1mAuthor \033[31;1m: \033[36;1mGunadiCBR"
-echo "\033[33;1mVersi  \033[31;1m: \033[36;1m1.0"
+echo "\033[33;1mAuthor \033[31;1m: \033[36; Muhammad Fazriansyah"
+echo "\033[33;1mVersi  \033[31;1m: \033[36; 0.1"
 echo "\033[33;1mDate   \033[31;1m: \033[36;1m30-08-2020"
-echo "\033[33;1mTeam   \033[31;1m: \033[36;1mMls18hckr"
-echo "\033[33;1mGithub \033[31;1m: \033[36;1mhttps::/github.com/afelfgie"
+echo "\033[33;1mTeam   \033[31;1m: \033[36;1mIndoxploit"
+echo "\033[33;1mGithub \033[31;1m: \033[36;1mhttps::/github.com/ajirmdhn"
 echo "\033[37;1m"
 echo  "Pencet \033[31;1m{ENTER} \033[37;1muntuk Kembali Ke Menu"
 read enter
